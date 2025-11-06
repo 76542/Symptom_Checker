@@ -9,7 +9,6 @@ The **AI Symptom-Based Disease Prediction System** is a machine learning-based h
 - Predicts possible diseases based on symptoms  
 - Provides precautionary or advisory suggestions  
 - Clean and easy-to-use Streamlit interface  
-- Trained on an authentic Kaggle dataset  
 - Fully functional within a virtual environment  
 
 ---
