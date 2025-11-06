@@ -33,6 +33,7 @@ It contains mappings between various symptoms and diseases, allowing the model t
 ---
 
 ## Project Structure
+```bash
 symptom_checker/
 │
 ├─ data/
@@ -45,7 +46,7 @@ symptom_checker/
 │ └─ disease_helper.py
 ├─ requirements.txt
 └─ README.md
-
+```
 
 ---
 
