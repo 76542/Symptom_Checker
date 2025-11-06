@@ -1,0 +1,11 @@
+symptoms,disease
+fever cough tiredness,Common Cold
+fever chills body_ache,Flu
+fever rash joint_pain,Dengue
+thirst frequent_urination fatigue,Diabetes
+chest_pain shortness_of_breath sweating,Heart Attack
+headache nausea sensitivity_to_light,Migraine
+abdominal_pain diarrhea nausea,Food Poisoning
+runny_nose sneezing cough,Allergy
+fatigue weight_loss excessive_thirst,Diabetes
+joint_pain swelling stiffness,Arthritis
